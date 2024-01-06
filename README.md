@@ -1,0 +1,1 @@
+Node.js is a server-side JavaScript runtime that enables executing code outside a web browser. It simplifies building scalable, high-performance applications by using an event-driven, non-blocking I/O model, making it popular for backend development.
